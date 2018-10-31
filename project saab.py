@@ -171,7 +171,7 @@ label_Longitude=Label(root,width=25)
 label_Longitude.place(x=400,y=600)
 
 label_Latitude=Label(root,width=25)
-label_Latitude.place(x=400,y=650)
+label_Latitude.place(x=400,y=656)
 
 root.mainloop()
 
